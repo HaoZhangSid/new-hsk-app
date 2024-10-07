@@ -1,0 +1,77 @@
+:root {
+  --color-primary: #3b82f6;
+  --color-primary-hover: #2563eb;
+  --color-primary-content: #ffffff;
+  --color-secondary: #10b981;
+  --color-secondary-hover: #059669;
+  --color-secondary-content: #ffffff;
+  --color-background: #ffffff;
+  --color-background-alt: #f3f4f6;
+  --color-text: #1f2937;
+  --color-text-alt: #4b5563;
+}
+
+.theme-dark {
+  --color-primary: #60a5fa;
+  --color-primary-hover: #3b82f6;
+  --color-primary-content: #ffffff;
+  --color-secondary: #34d399;
+  --color-secondary-hover: #10b981;
+  --color-secondary-content: #ffffff;
+  --color-background: #1f2937;
+  --color-background-alt: #374151;
+  --color-text: #f3f4f6;
+  --color-text-alt: #d1d5db;
+}
+
+.theme-blue {
+  --color-primary: #3b82f6;
+  --color-primary-hover: #2563eb;
+  --color-primary-content: #ffffff;
+  --color-secondary: #60a5fa;
+  --color-secondary-hover: #3b82f6;
+  --color-secondary-content: #ffffff;
+  --color-background: #eff6ff;
+  --color-background-alt: #dbeafe;
+  --color-text: #1e3a8a;
+  --color-text-alt: #1e40af;
+}
+
+.theme-green {
+  --color-primary: #10b981;
+  --color-primary-hover: #059669;
+  --color-primary-content: #ffffff;
+  --color-secondary: #34d399;
+  --color-secondary-hover: #10b981;
+  --color-secondary-content: #ffffff;
+  --color-background: #ecfdf5;
+  --color-background-alt: #d1fae5;
+  --color-text: #064e3b;
+  --color-text-alt: #065f46;
+}
+
+.theme-purple {
+  --color-primary: #8b5cf6;
+  --color-primary-hover: #7c3aed;
+  --color-primary-content: #ffffff;
+  --color-secondary: #a78bfa;
+  --color-secondary-hover: #8b5cf6;
+  --color-secondary-content: #ffffff;
+  --color-background: #f5f3ff;
+  --color-background-alt: #ede9fe;
+  --color-text: #4c1d95;
+  --color-text-alt: #5b21b6;
+}
+
+.theme-pink {
+  --color-primary: #ec4899;
+  --color-primary-hover: #db2777;
+  --color-primary-content: #ffffff;
+  --color-secondary: #f472b6;
+  --color-secondary-hover: #ec4899;
+  --color-secondary-content: #ffffff;
+  --color-background: #fdf2f8;
+  --color-background-alt: #fce7f3;
+  --color-text: #831843;
+  --color-text-alt: #9d174d;
+}
